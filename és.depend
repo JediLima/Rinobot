@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1573669430 source:c:\users\usuário\desktop\vsss\és\main.cpp
+	<iostream>
+	"Robot.h"
+	"VSSS.h"
+
+1573669429 c:\users\usuário\desktop\vsss\és\include\robot.h
+	<iostream>
+
+1573670459 c:\users\usuário\desktop\vsss\és\include\vsss.h
+	"Robot.h"
+	<iostream>
+
+1573669429 source:c:\users\usuário\desktop\vsss\és\src\robot.cpp
+	"Robot.h"
+	<math.h>
+	<iostream>
+
+1573670459 source:c:\users\usuário\desktop\vsss\és\src\vsss.cpp
+	"Robot.h"
+	"VSSS.h"
+	<math.h>
+	<iostream>
+
+1573772940 source:c:\users\usuário\desktop\rinobot\és\main.cpp
+	<iostream>
+	"Robot.h"
+	"VSSS.h"
+
+1573669429 c:\users\usuário\desktop\rinobot\és\robot.h
+	<iostream>
+
+1573759277 c:\users\usuário\desktop\rinobot\és\vsss.h
+	"Robot.h"
+	<iostream>
+
+1573764348 source:c:\users\usuário\desktop\rinobot\és\robot.cpp
+	"Robot.h"
+	<math.h>
+	<iostream>
+
+1573772767 source:c:\users\usuário\desktop\rinobot\és\vsss.cpp
+	"Robot.h"
+	"VSSS.h"
+	<math.h>
+	<iostream>
+
+1573758551 c:\users\usuário\desktop\rinobot\és\include\game.h
+	"../VSSS.h"
+	"../Robot.h"
+
